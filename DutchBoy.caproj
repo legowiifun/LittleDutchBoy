@@ -8,7 +8,7 @@
     <author-website>http://</author-website>
     <app-id>com.mycompany.myapp</app-id>
     <unique-id>1cricqmc7q3mz</unique-id>
-    <saved-with-version>16800</saved-with-version>
+    <saved-with-version>17300</saved-with-version>
     <used-plugins>
         <plugin author="Scirra" id="Audio" version="1">Audio</plugin>
         <plugin author="Scirra" id="Browser" version="1">Browser</plugin>
@@ -164,6 +164,9 @@
         </object-type>
         <object-type name="GoStart" sid="9516670918191588">
             <plugin id="Button" />
+        </object-type>
+        <object-type name="levelScore" sid="5258687252761783">
+            <plugin id="Text" />
         </object-type>
     </object-folder>
     <families />
