@@ -159,13 +159,19 @@
                 </animation>
             </animation-folder>
         </object-type>
-        <object-type name="TryAgain" sid="5920046971654388">
+        <object-type name="tryAgain" sid="5920046971654388">
             <plugin id="Button" />
         </object-type>
         <object-type name="GoStart" sid="9516670918191588">
             <plugin id="Button" />
         </object-type>
         <object-type name="levelScore" sid="5258687252761783">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="Text" sid="5630017269351811">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="Level" sid="972494895657351">
             <plugin id="Text" />
         </object-type>
     </object-folder>

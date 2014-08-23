@@ -24,5 +24,15 @@
                 </action>
             </actions>
         </event-block>
+        <event-block sid="7474675190772274">
+            <conditions>
+                <condition id="0" name="On clicked" sid="5160638083381193" type="Button2" />
+            </conditions>
+            <actions>
+                <action id="0" name="Set text" sid="3543283145248492" type="Level">
+                    <param id="0" name="Text">Level</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>
